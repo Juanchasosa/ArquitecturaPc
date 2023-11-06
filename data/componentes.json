@@ -7,37 +7,37 @@
     },
     {
         "id":"procesador",
-        "img":"../img/procesador.jpg",
+        "img":"https://http2.mlstatic.com/D_NQ_NP_2X_810432-MLA51801283635_102022-F.webp",
         "name":"Procesador",
         "description":"El procesador o microprocesador es la unidad de procesamiento principal de un ordenador, es por ello la unidad más importante, el «cerebro» de un ordenador.\n Es el encargado de ejecutar todos los programas, desde el sistema operativo hasta las aplicaciones de usuario; solo ejecuta instrucciones en lenguaje máquina, realizando operaciones aritméticas y lógicas simples, tales como sumar, restar, multiplicar, dividir y las operaciones bitwise, también las lógicas binarias y accesos a memoria.\n Puede contener una o más unidades centrales de procesamiento (CPU) constituidas, esencialmente, por registros, una unidad de control, una unidad aritmético lógica (ALU) y una unidad de cálculo en coma flotante (FPU) (conocida antiguamente como «coprocesador matemático»)."
     },
     {
         "id":"ram",
-        "img":"../img/memoriaram.webp",
+        "img":"https://http2.mlstatic.com/D_NQ_NP_2X_667453-MLA50418240420_062022-F.webp",
         "name":"Memoria RAM",
         "description":"La memoria de acceso aleatorio (random-access memory, RAM) es una memoria de almacenaje a corto plazo. El sistema operativo de ordenadores u otros dispositivos utiliza la memoria RAM para guardar de forma temporal todos los programas y sus procesos de ejecución. En la RAM se cargan todas las instrucciones que ejecuta la unidad central de procesamiento (CPU) y otras unidades del ordenador, además de contener los datos que manipulan los distintos programas.\n Se llama «de acceso aleatorio» porque se puede leer o escribir en una posición de memoria con igual tiempo de espera para cualquier posición, no requiriendo un orden para acceder (acceso secuencial) a la información de la manera más rápida posible."
     },
     {
         "id":"discoDuro",
-        "img":"../img/memoriarom.jpg",
+        "img":"https://http2.mlstatic.com/D_NQ_NP_2X_632778-MLA53352128101_012023-F.webp",
         "name":"Disco Duro",
         "description":"En informática, unidad de disco duro o unidad de disco rígido (en inglés: hard disk drive, HDD) es un dispositivo de almacenamiento de datos que emplea un sistema de grabación magnética para almacenar y recuperar archivos digitales. Se compone de uno o más platos o discos rígidos, recubiertos con material magnético y unidos por un mismo eje que gira a gran velocidad dentro de una caja metálica sellada. Sobre cada plato, y en cada una de sus caras, se sitúa un cabezal de lectura/escritura que flota sobre una delgada lámina de aire generada por la rotación de los discos.\n Permite el acceso aleatorio a los datos, lo que significa que los bloques de datos se pueden almacenar o recuperar en cualquier orden y no solo de forma secuencial. Las unidades de disco duro son un tipo de memoria no volátil, que retienen los datos almacenados incluso cuando están apagados."
     },
     {
         "id":"placaMadre",
-        "img":"../img/placamadre.jpg",
+        "img":"https://http2.mlstatic.com/D_NQ_NP_2X_885757-MLM43187980721_082020-F.webp",
         "name":"Placa Madre",
         "description":"La placa base, también conocida como tarjeta madre, placa madre o placa principal (motherboard o mainboard en inglés), es una tarjeta de circuito impreso a la que se conectan los componentes que constituyen la computadora. En muchos lugares de habla hispana se usa la palabra inglesa con el artículo en femenino.\n Es una parte fundamental para montar cualquier computadora personal de escritorio o portátil o algún dispositivo. Tiene instalados una serie de circuitos integrados, entre los que se encuentra el circuito integrado auxiliar (chipset), que sirve como centro de conexión entre el microprocesador (CPU), la memoria de acceso aleatorio (RAM), las ranuras de expansión y otros dispositivos.\n Está instalada dentro de una carcasa o gabinete que por lo general está hecha de chapa y tiene un panel para conectar dispositivos externos y muchos conectores internos y zócalos para instalar componentes internos.\n La placa base, además incluye un firmware llamado BIOS, que le permite realizar las funcionalidades básicas, como pruebas de los dispositivos, vídeo y manejo del teclado, reconocimiento de dispositivos y carga del sistema operativo."
     },
     {
         "id":"fuenteDePotencia",
-        "img":"../img/fuente.png",
+        "img":"https://http2.mlstatic.com/D_NQ_NP_2X_956314-MLA40413452921_012020-F.webp",
         "name":"Fuente de Potencia",
         "description":"Una unidad de fuente de alimentación (PSU) convierte la corriente alterna del enchufe en corriente continua regulada de baja tensión para los componentes internos de una computadora. Las computadoras personales modernas utilizan universalmente fuentes de alimentación de modo conmutado. Algunas fuentes de alimentación tienen un interruptor manual para seleccionar el voltaje de entrada, mientras que otras se adaptan automáticamente al voltaje principal.\n La mayoría de las fuentes de alimentación de computadoras personales de escritorio modernas cumplen con la especificación ATX, que incluye el factor de forma y tolerancias de voltaje. Cuando una fuente de alimentación ATX está conectada a la corriente, siempre suministra una alimentación en espera de 5 voltios (5VSB) para que las funciones en espera de la computadora y ciertos periféricos estén alimentadas. Las fuentes de alimentación ATX se encienden y apagan mediante una señal proveniente de la placa base. También proporcionan una señal a la placa base para indicar cuando los voltajes de corriente continua están dentro de las especificaciones, para que la computadora pueda encenderse y arrancar de forma segura. La versión más reciente del estándar de PSU ATX es la versión 3.0, a mediados de 2022."
     },
     {
         "id":"tarjetaRed",
-        "img":"../img/tarjetared.webp",
+        "img":"https://http2.mlstatic.com/D_NQ_NP_2X_757706-MLM52965355874_122022-F.webp",
         "name":"Tarjeta de Red",
         "description":"Una tarjeta de red es un dispositivo que se instala en el interior de un ordenador para que este pueda conectarse a Internet. Según el tipo de tarjeta, esta puede incluir en su parte posterior un puerto para introducir el cable de Ethernet o admitir la conexión inalámbrica.\n La tarjeta de red se encarga de la preparación, la transferencia y el control de los datos que se reciben y envían desde el ordenador a Internet o a otros equipos que comparten la misma red. Es importante mencionar que puede comunicarse también con periféricos como una impresora o un disco duro externo para agilizar el envío de datos importantes."
     }
