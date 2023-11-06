@@ -1,0 +1,11 @@
+.todosComponentes{
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0.5rem;
+}
+
+@media screen and (min-width: 470px) {
+    .todosComponentes{
+        grid-template-columns: 1fr 1fr;
+    }
+}

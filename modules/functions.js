@@ -1,3 +1,0 @@
-function pintarComponente(componente) {
-    
-}

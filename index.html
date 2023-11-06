@@ -38,19 +38,21 @@
         </div>
     </div>
 
-    <section class="flex flex-row mt-4" id="componentes">
-        <div class="join">
-            <button class="btn bg-gray-900 join-item">Ver Todos</button>
-            <button class="btn join-item">Procesador</button>
-            <button class="btn join-item">Tarjeta Gráfica</button>
-            <button class="btn join-item">Tarjeta Red</button>
-            <button class="btn join-item">RAM</button>
-            <button class="btn join-item">Disco Duro</button>
-            <button class="btn join-item">Fuente de energía</button>
-            <button class="btn join-item">Placa Madre</button>
-        </div>
+    <div class="join flex flex-wrap justify-center">
+        <button id="ver-todos" class="btn bg-gray-900 join-item">Ver Todos</button>
+        <button id="procesador" class="btn join-item">Procesador</button>
+        <button id="tarjetaGrafica" class="btn join-item">Tarjeta Gráfica</button>
+        <button id="tarjetaRed" class="btn join-item">Tarjeta Red</button>
+        <button id="ram" class="btn join-item">RAM</button>
+        <button id="discoDuro" class="btn join-item">Disco Duro</button>
+        <button id="fuenteDePotencia" class="btn join-item">Fuente de energía</button>
+        <button id="placaMadre" class="btn join-item">Placa Madre</button>
+    </div>
+
+    <section class="mt-4 todosComponentes max-w-5xl" id="componentes">
+
     </section>
 
-    <script src="./main.js"></script>
+    <script type="module" src="./main.js"></script>
 </body>
 </html>
