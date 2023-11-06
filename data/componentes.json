@@ -1,7 +1,7 @@
 [
     {
         "id":"tarjetaGrafica",
-        "img": "../img/tarjetagrafica.jpg",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_2X_974347-MLA70902776212_082023-F.webp",
         "name": "Tarjeta Gráfica",
         "description":"Una tarjeta gráfica o tarjeta de video es una tarjeta de expansión de la placa base de la computadora que se encarga de procesar los datos provenientes del procesador y transformarlos en información comprensible y representable en el dispositivo de salida (por ejemplo: monitor, televisor o proyector). Estas tarjetas utilizan una unidad de procesamiento gráfico o GPU, que muchas veces se usa erróneamente para referirse a la tarjeta gráfica en sí. También se les conoce como Adaptador de pantalla, Adaptador de vídeo, Placa de vídeo, y Tarjeta aceleradora de gráficos. Una tarjeta de video permite al usuario en términos generales jugar videojuegos, usar aplicaciones de edición de filtros, etc"
     },
